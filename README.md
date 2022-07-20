@@ -22,3 +22,31 @@ border: 0;
  
 - we can use `max(width in px as example, width in vw as another example) or min(width,another width) ` to change width for element automated 
 
+- The `address` element does not have to contain a physical geographical location. It can be used to provide a link to the subject.
+
+- On the topic of visual accessibility, contrast between elements is a key factor. For example, the contrast between the text and the background of a heading should be at least 4.5:1.
+
+- Certain types of motion-based animations can cause discomfort for some users. In particular, people with vestibular disorders have sensitivity to certain motion triggers.
+
+The @media at-rule has a media feature called `prefers-reduced-motion` to set CSS based on the user's preferences. It can take one of the following values:
+
+```
+reduce
+no-preference
+```
+    
+```
+@media (feature: value) {
+  selector {
+    styles
+  }
+}
+```
+
+- the navigation accessibility can be improved by providing keyboard shortcuts.
+
+- The accesskey attribute accepts a space-separated list of access keys. For example:
+
+```
+<button type="submit" accesskey="s">Submit</button>
+```
