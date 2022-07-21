@@ -1,4 +1,5 @@
 # [Live Demo](https://zenab12.github.io/Freecodecamp-quiz-challenge/)
+
 ## few tips i learned while coding this task :
 - role attribute is important for accessibilty as (User interface components need a role, a name and sometimes a value, to ensure that people using assistive technologies are able to use them. Examples of assistive technologies are screen readers, switch controls and speech recognition software.) about tag to screen reader with (arialabeldby) attr 
 and this is link to know more about [roles in w3](https://www.w3schools.com/accessibility/accessibility_role_name_value.php).or this [roles in MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
@@ -51,3 +52,7 @@ no-preference
 ```
 <button type="submit" accesskey="s">Submit</button>
 ```
+
+<p align="center" width="800">
+<img src="https://user-images.githubusercontent.com/78083890/180275910-15ed48d0-fc5c-48d2-b207-cc2c09f16aff.png" width="900 ">
+</p>
