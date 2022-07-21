@@ -8,7 +8,7 @@ and this is link to know more about [roles in w3](https://www.w3schools.com/acce
  ```
  <label for="birth-date">D.O.B.<span class="sr-only">(Date of Birth).</span></label>
  ```
- 
+
  ```
 .sr-only{position: absolute;
 width: 1px;
@@ -54,5 +54,5 @@ no-preference
 ```
 
 <p align="center" width="800">
-<img src="https://user-images.githubusercontent.com/78083890/180275910-15ed48d0-fc5c-48d2-b207-cc2c09f16aff.png" width="900 ">
+<img src="https://user-images.githubusercontent.com/78083890/180321264-a2535cf3-3913-4dd4-8e91-cbfbe75a335a.png" width="900 ">
 </p>
